@@ -27,5 +27,5 @@ def get_profile_image():
 
 
 if __name__ == '__main__':
-    user_name = input('Enter the username: ')
+    user_name = input('Enter the Instagram username: ')
     get_profile_image()
